@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PSQL="psql -X --username=freecodecamp --dbname=salon -c"
-echo -e "\n~~~~~ My Salon ~~~~~\n"
+echo -e "\n~~~~~ MY SALON ~~~~~\n"
 
 
 MAIN_MENU() {
